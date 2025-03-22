@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@font-face {
+    font-family: "stolzlBold";
+    src: url(../assets/fonts/stolzl_bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "stolzlBook";
+    src: url(../assets/fonts/stolzl_book.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "stolzlLight";
+    src: url(../assets/fonts/stolzl_light.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "stolzlMedium";
+    src: url(../assets/fonts/stolzl_medium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "stolzlRegular";
+    src: url(../assets/fonts/stolzl_regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "stolzlThin";
+    src: url(../assets/fonts/stolzl_thin.otf) format('opentype');
+}
+
+body {
+    font-family: "stolzlRegular", sans-serif;
+}
+
+
+
+/* 
+
+font-family: 'DM Sans', sans-serif;
+ font-weight: 400; 
+
+
+ */
